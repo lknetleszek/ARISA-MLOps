@@ -1,0 +1,18 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#ffffff" />
+
+  <!-- Top Text Block -->
+  <text x="50%" y="15%" text-anchor="middle" fill="#000000" font-size="24" font-family="Arial" font-weight="bold">
+    <tspan x="50%" dy="1.2em">LLM's: “We need to leverage our</tspan>
+    <tspan x="50%" dy="1.2em">disruptive paradigms and synergize</tspan>
+    <tspan x="50%" dy="1.2em">holistic data pipelines to maximize</tspan>
+    <tspan x="50%" dy="1.2em">stakeholder engagement.”</tspan>
+  </text>
+
+  <!-- Bottom Text Block -->
+  <text x="50%" y="80%" text-anchor="middle" fill="#000000" font-size="24" font-family="Arial" font-weight="bold">
+    <tspan x="50%" dy="1.2em">Kaggle Translation: “Show me the code that wins</tspan>
+    <tspan x="50%" dy="1.2em">competitions, not the buzzword bingo!”</tspan>
+  </text>
+</svg>
